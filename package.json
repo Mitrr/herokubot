@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "go": "nodemon main.js"
   },
+  "engines": {
+    "node": "10.13.0"
+  },
   "author": "Levanod D.",
   "license": "ISC",
   "dependencies": {
