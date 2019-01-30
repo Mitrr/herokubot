@@ -1,0 +1,10 @@
+{
+  "manager": {
+    "password": "123",
+    "isAuth": false
+  },
+  "admin": {
+    "password": "456",
+    "isAuth": false
+  }
+}
